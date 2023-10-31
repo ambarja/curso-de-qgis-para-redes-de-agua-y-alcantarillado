@@ -1,2 +1,2 @@
-# ANALISIS ESPACIAL Y MODELADO EN QGIS PARA REDES DE AGUA Y ALCANTARILLADO
+# Aplicación de Sistemas de Información Geográfica con QGIS para el Análisis de Redes de Agua 💧 y Alcantarillado 🏙️
 
